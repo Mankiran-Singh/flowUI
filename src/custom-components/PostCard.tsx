@@ -20,7 +20,7 @@ const PostCard = () => {
         <span className="text-red-500 cursor-pointer"> Read More</span>
       </p>
       <CardContent className="mt-2">
-        <img className="rounded-lg" src="public\assets\pexels-humphrey-muleba-2045248.png" alt="post" />
+        <img className="rounded-lg" src="\assets\pexels-humphrey-muleba-2045248.png" alt="post" />
       </CardContent>
       <div className="flex justify-between mt-3 text-gray-600">
         <div className="flex items-center space-x-2">
