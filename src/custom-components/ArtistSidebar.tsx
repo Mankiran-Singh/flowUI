@@ -5,26 +5,26 @@ const artists = [
   {
     name: "Thomas Edward",
     username: "@thomas_edward",
-    image: "src/assets/pexels-ekaterina-12203460.png",
-    profilePic: "src/assets/pexels-ali-pazani-2613260.png",
+    image: "public/assets/pexels-ekaterina-12203460.png",
+    profilePic: "public/assets/pexels-ali-pazani-2613260.png",
   },
   {
     name: "Chris Doe",
     username: "@chris_doe",
-    image: "src/assets/pexels-genaro-servín-763210.png",
-    profilePic: "src/assets/pexels-tobias-bjørkli-2236382.png",
+    image: "public/assets/pexels-genaro-servín-763210.png",
+    profilePic: "public/assets/pexels-tobias-bjørkli-2236382.png",
   },
   {
     name: "Emilie Jones",
     username: "@emilie_jones",
-    image: "src/assets/pexels-pixabay-164455.png",
-    profilePic: "src/assets/pexels-fiona-art-5022849.png",
+    image: "public/assets/pexels-pixabay-164455.png",
+    profilePic: "public/assets/pexels-fiona-art-5022849.png",
   },
   {
     name: "Jessica Williams",
     username: "@jessica_williams",
-    image: "src/assets/pexels-steve-johnson-1269968.png",
-    profilePic: "src/assets/pexels-ekaterina-12203460.png",
+    image: "public/assets/pexels-steve-johnson-1269968.png",
+    profilePic: "public/assets/pexels-ekaterina-12203460.png",
   },
 ];
 
